@@ -1,0 +1,91 @@
+ul {
+  list-style: none;
+}
+
+body {
+  background: #e6e6e6;
+  color: rgb(ff, ff, aa);
+  font: 100 14px/1.4 "Lucida Grande",Helvetica,Helvetica Neue,Arial;
+  text-shadow: 0 0 2px rgba(100, 100, 100,0.25);
+  width: 82em;
+  margin: auto;
+}
+
+article {
+  background: rgb(250, 250, 250);
+  box-shadow: rgb(153, 153, 153) 0px 1px 6px 0px;
+  /*min-width: 20em;
+  max-width: 40em;*/
+  width: 40em;
+  margin-bottom: 20px;
+}
+
+article header {
+  border-bottom: solid 2px rgb(180, 180, 180);
+}
+
+article header h1 {
+  text-align: center;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 17px;
+  padding-top: 10px;
+}
+
+.imageholder {
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+  height: 250px;
+  box-shadow: inset 0 0 30px rgba(50, 50, 50, 0.5);
+}
+
+.watching {
+  height: 400px;
+  box-shadow: none;
+}
+
+#holdertree1 {
+  background-image: url('hipster_tree_1.jpg');
+}
+
+#holdertree2 {
+  background-image: url('hipster_tree_2.jpg');
+}
+
+.content {
+  padding: 20px 30px 30px 10px;
+}
+
+#socialholder {
+  text-align: center;
+}
+
+#socialholder li {
+  display: inline;
+  margin-right: 1em;
+}
+
+#interestholder li
+{
+  margin-bottom: 1em;
+}
+
+#identity {
+  float: left;
+}
+
+#interest {
+  float: right;
+}
+
+#bodyheader {
+
+  margin: 40px auto ;
+  width: 20em;
+}
+
+#signature {
+  width: 100%;
+  opacity: 0.4;
+}
