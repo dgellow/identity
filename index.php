@@ -16,12 +16,17 @@
         </header>
         <div id="holdertree1" class="imageholder" onclick="clickImage(this, 'watching')"></div>
         <p class="content">
-          Sam. E. aka dgellow, Lausanne, Switzerland
-            <br>
-            <br>
-        Software developer
-            <br>
-          C&#35;, web (HTML4 / HTML5, CSS2 / CSS3, javascript)
+          Samuel El-Borai aka dgellow, Lausanne, Switzerland
+          <br>
+          <br>
+          Freelancer software developer
+
+	  <ul>
+            <li>C&#35;</li>
+	    <li>Ruby on Rails</li>
+	    <li>HTML, CSS</li>
+	    <li>JavaScript</li>
+	  </ul>
         </p>
         <ul id="socialholder" class="content">
           <li><a href="https://github.com/dgellow"><img src="logogithub.png"></a></li>
